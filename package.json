@@ -1,0 +1,31 @@
+{
+  "name": "blognodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamVoTuan/nodejsdemo.git"
+  },
+  "keywords": [
+    "Web",
+    "backend",
+    "nodejs"
+  ],
+  "author": "NamVo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamVoTuan/nodejsdemo/issues"
+  },
+  "homepage": "https://github.com/NamVoTuan/nodejsdemo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
